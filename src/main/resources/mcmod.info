@@ -1,0 +1,16 @@
+[
+{
+  "modid": "CustomChestLoot",
+  "name": "Custom Chest Loot",
+  "description": "Allows for complete chest loot customization.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://www.minecraftforum.net/topic/1153874-/",
+  "updateUrl": "",
+  "authorList": ["FatherToast"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

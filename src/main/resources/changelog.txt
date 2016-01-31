@@ -1,0 +1,14 @@
+2.0.0
+    - Now uses Json format.
+    - All the new features that come with nbt/item stats support.
+    - New commands: /cclreload, /ccltest <lootList>, and /cclinfo.
+    - Now supports hacky loot with nbt and has limited support for special mod-added loot.
+1.1.1
+    - Now accepts the new string item ids.
+    - Uses ';' instead of ':' to separate entry parts in order to allow string ids.
+1.1
+    - Now uses a new property loading system!
+    - Automatically generates defaults. (The old version's defaults became outdated as of Minecraft 1.6.)
+    - Now takes effect after most mods should add chest loot - that means the default files will reflect any changes made by other mods, and those changes can now be edited by you!
+1.0
+    - Released!
